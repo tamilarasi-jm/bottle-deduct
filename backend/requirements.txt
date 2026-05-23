@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python-headless==4.10.0.84
+mangum
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.3.0+cpu
+torchvision==0.18.0+cpu
+numpy==1.26.4
+scipy==1.11.4
+contourpy==1.1.1
+matplotlib==3.8.0
+ultralytics==8.2.0

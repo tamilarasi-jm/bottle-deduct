@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.env.*
+.pytest_cache/
+.git/
+.gitignore
+Dockerfile
+*.md
+scripts/
+yolov8n.pt

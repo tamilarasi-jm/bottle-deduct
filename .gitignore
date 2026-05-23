@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+
+# Pytest cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# AWS / local secrets
+*.pem
+
+# Logs
+*.log
+
+# Build/cache
+dist/
+build/
+
+# Optional large model files
+# Uncomment if you DON'T want models on GitHub
+yolov8n.pt
